@@ -1,0 +1,9 @@
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.Form1.resources
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\TheGame\TheGame\bin\Debug\TheGame.exe.config
+C:\Users\Алексей\source\repos\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Алексей\source\repos\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Users\Алексей\source\repos\TheGame\TheGame\obj\Debug\TheGame.csprojAssemblyReference.cache
